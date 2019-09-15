@@ -1,3 +1,18 @@
+<<<<<<< HEAD
 hii 
 hello
+=======
+
+This program is only fo btech students
+<<<<<<< HEAD
+hii
+=======
+ghello everyone
+
+Welcome to our IGIAT
+
+hOur mstp program will be for 90 days.
+
+>>>>>>> new
+>>>>>>> new
 
